@@ -37,7 +37,7 @@
 
 ---
 
-<img align="left" alt="Rabiul Islam Emon Readme Stats" src="https://github-readme-stats.vercel.app/api?username=R-emon&show_icons=true&hide_border=true" />
+<img align="left" alt="Rabiul Islam Emon Readme Stats" src="https://github-readme-stats.vercel.app/api?username=R-emon&show_icons=true&hide_border=true&theme=monokai" />
 
 [facebook]: https://www.facebook.com/esaam.d.e/
 [youtube]: https://www.youtube.com/channel/UCkKw0bC_NKg1RaUJ8KGYRTA
