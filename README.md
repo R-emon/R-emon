@@ -35,11 +35,11 @@
 <br />
 <br />
 
-<p align="center"> <img  alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-emon&layout=compact&theme=vue-dark" />
+<p align="center"> <img  alt="Language Stats" src="https://my-readme-stat.vercel.app/api/top-langs/?username=R-emon&layout=compact&theme=vue-dark" />
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=R-emon&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/R-emon)
+[![Top Langs](https://my-readme-stat.vercel.app/api?username=R-emon&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/R-emon)
 ---
 ![](https://komarev.com/ghpvc/?username=R-emon&color=blue)
 
