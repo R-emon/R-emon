@@ -1,6 +1,6 @@
 <h1 align="center">Greetings😇, all the good souls </h1>
 
-<h2 align="center">Hi there 👋, I'm Raiul Islam Emon </h2> 
+<h2 align="center">Hi there 👋, I'm Rabiul Islam Emon </h2> 
 <img width="250" align="right" src="https://github.com/R-emon/R-emon/blob/main/Image/coder.gif"></a>
 
 
