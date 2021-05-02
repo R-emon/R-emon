@@ -1,6 +1,6 @@
-<h1 align="center">Greetings, all the good souls 😇</h1>
+<h1 align="center">Greetings😇, all the good souls </h1>
 
-<h2 align="center">Hi there, I'm Raiul Islam Emon 👋</h2> 
+<h2 align="center">Hi there 👋, I'm Raiul Islam Emon </h2> 
 
 ## I'm a computer language lover!!
 
