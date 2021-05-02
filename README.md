@@ -1,6 +1,8 @@
 <h1 align="center">Greetings😇, all the good souls </h1>
 
 <h2 align="center">Hi there 👋, I'm Raiul Islam Emon </h2> 
+<img width="250" align="right" src="/images/coder.gif"></a>
+
 
 ## I'm a computer language lover!!
 
