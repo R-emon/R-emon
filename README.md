@@ -35,7 +35,7 @@
 <br />
 <br />
 
-<img aligh="left" alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-emon&layout=compact&theme=vue-dark" />
+<p align="center"> <img  alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-emon&layout=compact&theme=vue-dark" />
 
 ---
 
