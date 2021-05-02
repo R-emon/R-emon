@@ -35,6 +35,11 @@
 <br />
 <br />
 
+<img aligh=""left alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-emon&layout=compact&theme=vue-dark" />
+
+<br />
+<br />
+
 ---
 
 <img align="left" alt="Rabiul Islam Emon Readme Stats" src="https://github-readme-stats.vercel.app/api?username=R-emon&show_icons=true&hide_border=true&theme=tokyonight" />
