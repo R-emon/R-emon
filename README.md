@@ -36,7 +36,7 @@
 [<img align="left" alt="Terminal" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
 
 <br />
-<br />
+<p> <br /> </p>
 
 <p align="center"> <img  alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-emon&layout=compact&theme=vue-dark" />
 
