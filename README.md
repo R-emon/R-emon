@@ -35,7 +35,7 @@
 <br />
 <br />
 
-<img aligh="left" alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-emon&layout=compact&theme=vue-dark" />
+<img aligh="center" alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-emon&layout=compact&theme=vue-dark" />
 
 <br />
 <br />
@@ -45,12 +45,11 @@
 <img align="left" alt="Rabiul Islam Emon Readme Stats" src="https://github-readme-stats.vercel.app/api?username=R-emon&show_icons=true&hide_border=true&theme=tokyonight" />
 
 <br />
-<br />
+
 ---
 
 ![](https://komarev.com/ghpvc/?username=R-emon&color=blue)
 
-<br />
 
 [facebook]: https://www.facebook.com/esaam.d.e/
 [youtube]: https://www.youtube.com/channel/UCkKw0bC_NKg1RaUJ8KGYRTA
