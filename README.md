@@ -19,19 +19,19 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
+[<img align="left" alt="Visual Studio Code" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" alt="HTML5" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
-[<img align="left" alt="C" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_24x24.png" />][github]
-[<img align="left" alt="C++" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png" />][github]
-[<img align="left" alt="Java" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_24x24.png" />][github]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
+[<img align="left" alt="CSS3" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
+[<img align="left" alt="JavaScript" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
+[<img align="left" alt="React" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
+[<img align="left" alt="Node.js" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
+[<img align="left" alt="C" width="40px" height="40px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" />][github]
+[<img align="left" alt="C++" width="40px" height="40px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" />][github]
+[<img align="left" alt="Java" width="40px" height="40px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_48x48.png" />][github]
+[<img align="left" alt="MongoDB" width="40px" height="40px" src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_32x32.png" />][github]
+[<img align="left" alt="Git" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
+[<img align="left" alt="GitHub" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Terminal" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
 
 <br />
 <br />
