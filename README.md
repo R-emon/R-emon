@@ -8,7 +8,7 @@
 
 - 😎 I’m currently learning new Technologies  👨‍💻
 - 👯 I’m looking forward to merge with other developers 🤜🤛
-- 🥅 2021 Goals: Contribute more to Open Source projects and deep dive in learning 
+- 🥅 2024 Goals: Contribute more to Open Source projects and deep dive in learning 
 - ⚡ Fun fact: I love to watch Movies and Travel 
 
 ### Connect with me:
