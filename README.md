@@ -52,5 +52,5 @@
 [youtube]: https://www.youtube.com/channel/UCkKw0bC_NKg1RaUJ8KGYRTA
 [instagram]: https://www.instagram.com/emon_rabiul/
 [github]: https://github.com/R-emon 
-[LinkedIn]: https://www.linkedin.com/in/rabiul-emon-6aa770272/
+[LinkedIn]: https://www.linkedin.com/in/rabiul-emon-6aa770272
 
