@@ -16,6 +16,7 @@
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][LinkedIn]
 
 <br />
 
@@ -51,3 +52,5 @@
 [youtube]: https://www.youtube.com/channel/UCkKw0bC_NKg1RaUJ8KGYRTA
 [instagram]: https://www.instagram.com/emon_rabiul/
 [github]: https://github.com/R-emon 
+[LinkedIn]: https://www.linkedin.com/in/rabiul-emon-6aa770272/
+
